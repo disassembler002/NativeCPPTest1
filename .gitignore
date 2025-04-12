@@ -1,0 +1,55 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio and IntelliJ IDEA files
+.idea/
+*.iws
+*.ipr
+
+# Log files
+*.log
+
+# Miscellaneous
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
