@@ -53,3 +53,4 @@ local.properties
 *.lo
 *.o
 *.obj
+/app/src/main/cpp/SOIL2/
